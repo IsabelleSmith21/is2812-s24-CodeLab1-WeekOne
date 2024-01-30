@@ -1,5 +1,2 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Game where you choose things to show your friends on the playground and they tell you if you are not cool/cool/super cool 
+Use WASD or Arrows to move the hand
